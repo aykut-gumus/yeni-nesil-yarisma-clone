@@ -1,0 +1,49 @@
+.body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg {
+    background-color: #501c4c;
+    text-align: center;
+}
+
+.bg-sec1 {
+    background-color: #a12a29;
+    text-align: center;
+}
+
+.bg-sec2 {
+    background-color: #f04c1c;
+    text-align: center;
+}
+
+.bg-sec3 {
+    background-color: #2074bc;
+    text-align: center;
+}
+
+.bg-sec4 {
+    background-color: #10444c;
+    text-align: center;
+}
+
+.bg-sec5 {
+    background-color: #d0441c;
+    text-align: center;
+}
+
+.bg-sec6 {
+    background-color: #c00c6c;
+    text-align: center;
+}
+
+.line {
+    width: 275px;  
+    border-top: 3px solid white
+}
+    
+
+
